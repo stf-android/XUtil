@@ -33,7 +33,7 @@
 ```
 
 	dependencies {
-	        compile 'com.github.stf-android:XUtils:2.1.3'
+	        compile 'com.github.stf-android:XUtils:master'
 	}
 ```
 
